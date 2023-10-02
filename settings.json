@@ -1,0 +1,7 @@
+{
+    "GAME_SPEED": 8,
+    "SNAKE_COLOR": "#00ffff",
+    "FOOD_COLOR": "#ffff00",
+    "BACKGROUND_COLOR": "#008000",
+    "IS_WINDOW_BORDER": 0
+}
